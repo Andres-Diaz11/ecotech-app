@@ -1,8 +1,8 @@
-## 🔥 Tecnologías
+##  Tecnologia
 - Firebase Authentication
 - Firestore Database
 
-## 📦 Colecciones
+## Colecciones
 
 ### users
 - email
@@ -19,12 +19,12 @@
 - usuarioId
 - estado (pendiente / aceptado / rechazado)
 
-## 🔐 Reglas
+## Reglas
 - Usuarios autenticados pueden leer
 - Usuarios pueden crear solicitudes
 - Admin gestiona equipos y solicitudes
 
-## 🔄 Flujo
+##  Flujo
 
 1. Usuario inicia sesión
 2. Usuario solicita equipo
